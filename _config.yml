@@ -20,7 +20,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Baking Raspberry Pi"
 title_separator          : "-"
-subtitle                 : Let's Play with Raspberry Pi # site tagline that appears below site title in masthead
+subtitle                 : Play Raspberry Pi Like a Pro # site tagline that appears below site title in masthead
 name                     : "Anna Hua"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -283,4 +283,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
