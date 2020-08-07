@@ -4,9 +4,13 @@ main:
     # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
     # url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Research"
+    url: /recipes/
+  - title: "Machine Learning"
+    url: /portfolio/
   - title: "Raspberry Pi Project"
+    url: /pets/
+  - title: "Post of the year"
     url: /year-archive/
-  - title: "Machine Learning Project"
-    url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/

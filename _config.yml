@@ -268,6 +268,27 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  #
+  raspberrypi:
+    output: true
+    permalink: /:collection/:path/
+  MachineLearning:
+    output: true
+    permalink: /:collection/:path/
+  Research:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -283,4 +304,13 @@ defaults:
       share: true
       related: true
 
-#theme: jekyll-theme-cayman
+  - scope:
+      path: "_posts/_raspberrypi"
+      type: raspberrypi
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments:  true
+      share: true
+      related: true
