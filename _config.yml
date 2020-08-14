@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Anna Hua"
   avatar           : "/assets/images/site_image/bio_image.jpg" # path of avatar image, e.g. "/assets/images/site_image/site_image/bio_image.jpg"
-  bio              : "Physics Researcher and a Coder" #"I am an **amazing** person."
+  bio              : "Physics Researcher, Coder" #"I am an **amazing** person."
   location         : "Virginia, US"
   email            : "jiansiyu@gmail.com"
   links:
@@ -112,7 +112,7 @@ author:
       url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jiansiyu"

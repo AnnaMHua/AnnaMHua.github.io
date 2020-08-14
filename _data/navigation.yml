@@ -5,9 +5,9 @@ main:
   # - title: "About"
     # url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Research"
-    url: /recipes/
+    url: /research/
   - title: "Machine Learning"
-    url: /portfolio/
+    url: /research/
   - title: "Raspberry Pi Project"
     url: /raspberrypi/
   - title: "Post of the year"
